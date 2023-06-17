@@ -9,6 +9,4 @@
 - https://github.com/tuananhhedspibk/TIL-N1
 5. TIL-English:
 - https://github.com/learndeeplearningbymyself/TIL-EN
-- https://github.com/tuananhhedspibk/EnglishWithBBC
-- https://github.com/tuananhhedspibk/HackerTOEIC
 6. TIL-Flutter: https://github.com/tuananhhedspibk/TIL-Flutter
